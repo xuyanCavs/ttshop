@@ -7,6 +7,16 @@
     <groupId>com.qf</groupId>
     <artifactId>MyBatis</artifactId>
     <version>1.0-SNAPSHOT</version>
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.apache.ibatis/ibatis-core -->
+        <dependency>
+            <groupId>org.apache.ibatis</groupId>
+            <artifactId>ibatis-core</artifactId>
+            <version>3.0</version>
+        </dependency>
+
+
+    </dependencies>
     <build>
         <finalName>zsxt</finalName>
         <plugins>
